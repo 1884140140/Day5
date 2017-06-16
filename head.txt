@@ -1,0 +1,15 @@
+<%@ page contentType="text/html;charset=UTF-8"%>
+<CENTER><Font size=6><P>单身俱乐部</Font></CENTER>
+<table  cellSpacing="1" cellPadding="1" width="1000" color="yellow" align="center" border="0" >
+   <tr valign="bottom">
+   <td><A href="register.jsp"><font size=3 color=black>会员注册</font></A></td>
+   <td><A href="login.jsp"><font size=3 color=black>会员登录</font></A></td>
+   <td><A href="upload.jsp"><font size=3 color=black>上传照片</font></A></td>
+   <td><A href="choiceLookType.jsp"><font size=3 color=black>浏览会员</font></A></td>
+   <td><A href="inputModifyMess.jsp"><font size=3 color=black>修改注册信息</font></A></td>
+   <td><A href="modifyPassword.jsp"><font size=3 color=black>修改密码</font></A></td>
+   <td><A href="helpExitLogin"><font size=3 color=black>退出登录</font></A></td>
+   <td><A href="index.jsp"><font size=3 color=black>返回主页</font></A></td>
+  </tr>
+  </Font>
+</table>
